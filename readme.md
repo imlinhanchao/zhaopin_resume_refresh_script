@@ -15,4 +15,4 @@ node app.js -u 智联招聘帐号 -p 智联招聘密码
 ```bash
 node app.js -u 智联招聘帐号
 ```
-这样可以再 stdin 输入密码。
+这样可以在 stdin 输入密码。
